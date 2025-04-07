@@ -1,0 +1,10 @@
+pandas
+mlflow
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box
+pyYAML
+tqdm
+apache-airflow
